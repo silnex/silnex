@@ -1,4 +1,4 @@
-## Hi! SeungHyun Lee (silnex)
+## 안녕하세요! I'm SeungHyun Lee (silnex)
 
 ### 💻 i Can 
 - PHP (Intermediate)
