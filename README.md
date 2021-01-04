@@ -13,7 +13,7 @@
 - C# (with .Net core)
 - React
 
-### 🎟️ How to reach me
+### 🎟️ How to contact me
 - blog: blog.silnex.kr
 - e-mail: silnex@silnex.kr
 - LinkedIn: linkedin.com/in/silnex
