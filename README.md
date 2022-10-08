@@ -10,8 +10,8 @@
 - Gnuboard
 
 ### 🚌 i Want learn
-- C# (with .Net core)
 - React
+- Make Money
 
 ### 🎟️ How to contact me
 - blog: blog.silnex.kr
